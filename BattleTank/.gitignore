@@ -61,3 +61,6 @@ Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# Other UE4 starter content
+BattleTank/Content/StarterContent/*
